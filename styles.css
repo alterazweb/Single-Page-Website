@@ -1,0 +1,249 @@
+@font-face {
+font-family: 'Open Sans';
+src: url('fonts/open-sans.woff2') format('woff2');
+}
+@font-face {
+font-family: 'Open Sans SemiBold';
+src: url('fonts/open-sans-semibold.woff2') format('woff2');
+}
+@font-face {
+font-family: 'Open Sans Bold';
+src: url('fonts/open-sans-bold.woff2') format('woff2');
+}
+
+*,*:before,*:after {          
+box-sizing: border-box;
+} 
+.HDR {
+   font-family: "Open Sans", sans-serif;
+   font-size: 15.35px;
+   text-align: center;
+   width: 1280px;
+   margin: 0 auto;
+}
+.Banner {
+background: url("images/Layer_2.png") no-repeat;
+height: 800px;
+}
+.Logo {
+margin: 68px auto 60px auto;
+border-radius: 50%;
+width: 273px;
+height: 273px;
+}
+.Be_sure {
+font-size: 49.35px;
+color: rgb(255, 255, 255);
+text-transform: uppercase;
+line-height: 1.256;
+}
+.Be_sure span{
+font-family: "Open Sans Bold", sans-serif;
+}    
+.Rounded_Rectangle_15 {
+color: rgb(147, 142, 142);
+border-radius: 2px;
+background-color: rgb(255, 255, 255);
+box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.28);
+width: 334px;
+height: 334px;
+margin: 51px auto;
+}
+.Rounded_Rectangle_16 {
+font-family: "Open Sans", sans-serif;
+font-size: 15px;
+color: rgb(180, 173, 173);
+text-align: left;
+padding-left: 12px;
+margin: 30px auto 22px auto;
+border-style: solid;
+border-width: 1px;
+border-color: rgb(229, 229, 229);
+border-radius: 2px;
+background-color: rgb(255, 255, 255);
+box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.09);
+width: 267px;
+height: 38px;
+}
+.Rounded_Rectangle_15 img {
+height: 87px;
+vertical-align: bottom;
+}
+.Rounded_Rectangle_15 div {
+height: 34px;
+line-height: 1.2;
+margin: 24px auto 28px -33px;
+}
+.Press_me {
+font-family: "Open Sans SemiBold", sans-serif;
+border-radius: 2px;
+background-color: rgb(34, 125, 211);
+font-size: 25.65px;
+color: rgb(255, 255, 255);
+margin-left: -20px;
+width: 192px;
+height: 45px;       
+}
+.Boxes {
+font-family: "Open Sans", sans-serif;
+font-size: 14px;
+height: 224px;
+margin: 170px auto 0px -26px;
+display: inline-block;
+}
+.Boxes h1 {
+font-family: "Open Sans SemiBold", sans-serif;
+font-weight: 600;
+font-size: 27px;
+color: rgb(0, 0, 0);
+margin: 0px;
+}
+.Rounded_Rectangle_14 {
+width: 95px;
+height: 122px;
+float: left;
+}
+.Documents  {
+float: left;
+}
+.Photos  {
+float: left;
+margin-left: 78px;
+}
+.Boxes>div>div{
+color: rgb(79, 78, 78);
+display: inline-block;
+width: 266px;
+text-align: left;
+margin-left: 30px;
+line-height: 1.643;
+}
+.lsd1 {
+background: url('images/Sec1.png') rgb(95, 193, 139) no-repeat;
+color: rgb(255, 255, 255);
+width: 1280px;
+height: 873px;
+}
+.lsd1 h1 {
+font-family: 'Open Sans SemiBold', sans-serif;
+font-size: 39px;
+padding: 262px 0px 14px 0px;
+margin: 0px 0px 0px -50px;
+}
+.lsd1 div {
+font-family: "Open Sans", sans-serif;
+font-size: 14px;
+line-height: 1.643;
+text-align:justify;
+overflow-wrap: break-word;
+width: 647px;
+margin: 0px auto;
+transform: translateX(-7px);
+}
+.lsd1 div p:last-child {
+margin-top: 46px;
+}
+.lsd2 {
+background: url('images/Sec2.png') rgb(95, 193, 139) no-repeat;
+color: rgb(255, 255, 255);
+width: 1280px;
+height: 479px; 
+}
+.lsd2 .align {
+padding-left: 562px;
+}
+.lsd2 h1 {
+font-family: 'Open Sans SemiBold', sans-serif;
+font-size: 39px;
+text-align: left;
+padding: 23px 0px 14px 0px;
+margin: 0px;
+}
+.lsd2 p {
+font-family: "Open Sans", sans-serif;
+font-size: 14px;
+line-height: 1.643;
+margin: 0px 0px 38.5px 9px;
+text-align: justify;
+overflow-wrap: break-word;
+width: 498px;
+}
+.Download {
+margin-left: 12px;
+text-align: left;
+}
+.Download input {
+font-size: 27px;
+font-family: "Open Sans SemiBold", sans-serif;
+border: 3px solid rgb(255, 255, 255);
+border-radius: 10px;
+width: 201px;
+height: 57px;
+color: rgb(255, 255, 255);
+background-color: transparent;
+padding-bottom: 5px;
+}
+.Layer_16 {
+background: url("images/Layer_16.png") no-repeat;
+width: 1280px;
+height: 635px;
+font-size: 14px;
+font-family: "Open Sans";
+color: rgba(76, 80, 93, 0.502);
+overflow: hidden; 
+}
+.Contact {
+border-radius: 50%;
+background-color: rgb(255, 255, 255);
+opacity: 0.851;
+box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.24);
+margin: 161px auto;
+width: 430px;
+height: 430px;
+display: flex;
+align-items: flex-end;
+}
+.Contact>div {
+   margin-left: 12px;
+}
+.Contact input {
+padding: 0px 0px 0px 14px;
+border: 1px solid rgb(216, 216, 216);
+font-family: "Open Sans";
+font-size: 14px;
+color: rgba(76, 80, 93, 0.502);
+margin: 0px 0px 16px 0px;
+width: 279px;
+height: 31px;
+}
+.Contact textarea {
+padding: 6px 0px 0px 16px;
+resize: none;
+border: 1px solid rgb(216, 216, 216);
+font-size: 14px;
+font-family: "Open Sans", sans-serif;
+color: rgba(76, 80, 93, 0.502);
+width: 279px;
+height: 81px;
+}
+.Contact button {
+display: block;
+background: none;
+border: none;
+margin: 0px auto;
+}
+.Shape_5 {
+width: 66px;
+height: 66px;
+margin: 27px auto 41px auto;
+}
+footer {
+background-color: rgb(67, 160, 109);
+font-size: 14px;
+color: rgb(255, 255, 255);
+height: 47px;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-left: -22px;
+}
