@@ -1,1 +1,1 @@
-# Шаблон в папке PSD model - Single Page Website Template PSD
+# Шаблон в папке 'PSD model' - Single Page Website Template PSD
