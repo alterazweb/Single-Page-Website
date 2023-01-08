@@ -1,1 +1,1 @@
-# Single Page Website Template PSD READY!
+# Шаблон в папке PSD model - Single Page Website Template PSD READY!
